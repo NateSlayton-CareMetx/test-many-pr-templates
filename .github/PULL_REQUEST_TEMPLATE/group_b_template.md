@@ -1,0 +1,3 @@
+# Group B Template
+
+foo
